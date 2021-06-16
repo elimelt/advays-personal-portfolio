@@ -1,0 +1,22 @@
+#content {
+    font-size: 2.4vw;
+    text-align: center;
+    position: relative;
+    top: 20%;
+}
+
+#my-photo {
+    position: relative;
+    width: 19.5vw;
+    height: auto;
+    top: 9vw;
+    left: 40%;
+}
+
+#skyline-logo {
+    position: relative;
+    width: 13vw;
+    height: auto;
+    top: 14vw;
+    right: 14vw;
+}
